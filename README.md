@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola soy Álvaro 👋
+Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 <!--
 **aleong06/aleong06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
